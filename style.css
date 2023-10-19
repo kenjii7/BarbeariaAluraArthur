@@ -10,4 +10,14 @@ body{ font-size: 20px;
 
  .imagem{width: 100%;}
 
- .imagem_beneficios{width:100%}
+ .lista {display: inline-block;
+vertical-align: top;
+
+margin-right: 15%;
+
+ }
+
+ .imagem_beneficios{
+    width: 50%;}
+
+ .titulo-principal{padding-left: 20px;}     
